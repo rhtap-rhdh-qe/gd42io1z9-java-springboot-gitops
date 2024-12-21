@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gd42io1z9-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gd42io1z9-java-springboot
